@@ -10,9 +10,10 @@
 * ESP32芯片*1，¥25.25，淘宝链接：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.2f872e8dKRr4kt&id=672317019032&_u=3mog2lbab2&sku_properties=1627207:1764709649
 * OLED2.42寸 5针 3.3V 白色*1，¥95.2，淘宝链接：https://detail.tmall.com/item.htm?id=558395483864&spm=a1z09.2.0.0.14fc2e8d1f7pi5&_u=3mog2l2f55&pisk=fWOE0qj0rXheYKvlbG1P78Wtst1dgsnjqQs5rUYlRMjnewGuaU8cP2n-Jd7kVh3-J6Tl43-1X7_Sp0FybHTDd9tWdgbljhYQOgGdU38XD3NS9p_uahTRE3Oyy77kr33dV2H6JeCRZmif4jTpJ_16ARdPKN4GkFV3-70t_b0NZmijaRaGpD1kFOATEGWGXa7ut7xus1bdja2hZ3jGIZbbx_fkqF0NrZqlr7juIlb5Pby6qH3N2902fPYtbqVOKiYhxetWs86gpFjN5wOO8FSD-8FuZC7FLQsRPmiRdLYAHBT-a5CBudfGlehU_sYhuHs6mjVNsFTMVtpt2S69bQWkt9UomiXPYdAhQzVkW_SFHL-EYJIHdhWASO4rMNtfjedHQ4EM-nsFtNXsiq8GEdOdHBigTsvvR69k2xwOTUvh_gy42NcfMQpUq8WhWNSj7Vci6macZ5KBU8eRQAQNc4Vue8BhWNSj7Vy8eORO7iguZ&skuId=4541441894915
 * 杜邦线*4，根据机箱需要设置长度，价格忽略不计。
-* USB-TypeC线*1，根据机箱需要设置长度，价格忽略不计。![20240525_134741](https://github.com/user-attachments/assets/5d5fbc40-afbf-41aa-b41f-dc3839ff4027)
-
+* ![20240525_134741](https://github.com/user-attachments/assets/d42e2db6-4631-4cd3-a133-3de418c40525)
+* USB-TypeC线*1，根据机箱需要设置长度，价格忽略不计。
 * 扩展板9针USB主板内置USB口*1(不必需），¥8，淘宝链接：https://detail.tmall.com/item.htm?id=736189528051&spm=a1z09.2.0.0.14fc2e8d1f7pi5&_u=3mog2l166e&pisk=f7Vj0zqxYnxj-BUSjxQrFVGUvdGslo1F6FgT-Pd2WjhxCCU4AVRZQt0610adomWGnlw7XuDqDckZ1VZEqrRNor711PUKDfyq0VEzfuv405oa41a3AxR4W580EkzpgSWm_CGmsfIFY65Eurci6ak_g4Ymw20pX1ovH3pj0r6dY65UPt3m_zIFSzLn1c3Z6qHtD_QSo2mt6A3Yyagt7np9MlURPVmJMCdtBU3-R20xWbupVV-jzr_JLXYwmhpum0O9OemnHZqvQIdv5qDxvYEW64PSlxiLkSXc9m08a7MEUFS-wy2zD4GCaKhLPREQplXeEjaTHlD7mgvS48F0WcHXWBz7VPh8MJT96zGjmYFxUnsSvS48tbHP9wa8Zoz0NP8O64rE2rVx16QnGjnxN4VNqIn_eRFqnfxAYx4TFugj9gW9TDGExdTSKCgSYa_WIduiI1x56ogAex3ok675P3PiH40SYa_WIdDxrqeFPatzs&skuId=5085334564172
+![20240803_110622](https://github.com/user-attachments/assets/d28e7ce8-9df7-4699-8028-e2415bbfaa1c)
 
 软件：
 * AIDA64，¥1.88可激活，淘宝链接：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.14fc2e8d1f7pi5&id=625367245693&_u=3mog2ld188&pisk=ffN-0UVSsijkeF63Nz6mtLvhuV7c27Uzuuz6tDmkdoEYvPLuEvmndXEaXvOhUbDK9oi0Z04oN2MQxlwoV8mH9WE42QAnNkfKAPyV800uZe3Qhud3EzmuHehzi8AnqglLRlcdjGfGszzrQXsGjt4pvCcrJL9IRHmfG2KTPUY1szzrYUKCS-1Mp5d-37gQAYMjc4mXNQM7AxOj8mOSRQgBcZ3EcDGIVDTjh4u6d3MSdbWOym5S7BeQU3sMS1Q60nPxlMk0ynp-jWuRCcU-DGtLMCk-fzivOGDijroK05scHrraFu04v1IxToyQA2EXcMDzR-Exyuj9YDVzrWnuyTsbkjo8Rvh9R_axw0H_ZALBTlaYRRDYiN1Zwbi7KbzHWg4Ywu4zMyYBhbhuHAF-11-Sx-4T92FFYsET7Srxll1dVg8us5HX-hmt-L_AkpJEFqDiZXR5nQAq1qnGPY9eLAFqkcbAkpJEFquxjaOWLpkTg
