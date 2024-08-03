@@ -6,9 +6,9 @@
 #include <time.h>
 
 // WiFi 连接信息
-const char *ssid = "chaeng";
-const char *password = "19792tiger221";
-const char *host = "192.168.1.4";
+const char *ssid = "XXX";//wifi名称
+const char *password = "XXX";//wifi密码
+const char *host = "XXX";//主机地址
 
 // NTP 客户端设置
 WiFiUDP ntpUDP;
