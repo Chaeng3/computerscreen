@@ -20,7 +20,7 @@ int16_t gpu_usage;
 String date;
 String current_time;
 
-String previous_times[3]; // 用于存储最近三次获取的时间
+String previous_times[4]; // 用于存储最近四次获取的时间
 int time_index = 0; // 当前时间索引
 
 bool clockMode = false;
@@ -124,13 +124,13 @@ void loop()
             String new_time;
             parseAndPrintString(line, "Simple2|time ", new_time);
 
-            // 检查是否连续三次时间相同
+            // 检查是否连续四次时间相同
             previous_times[time_index] = new_time;
-            time_index = (time_index + 1) % 3;
+            time_index = (time_index + 1) % 4;
 
-            if (previous_times[0] == previous_times[1] && previous_times[1] == previous_times[2] && !previous_times[0].isEmpty())
+            if (previous_times[0] == previous_times[1] && previous_times[1] == previous_times[2] && previous_times[2] == previous_times[3] && !previous_times[0].isEmpty())
             {
-                Serial.println("Time is the same for three consecutive attempts, switching to clock mode.");
+                Serial.println("Time is the same for four consecutive attempts, switching to clock mode.");
                 enterClockMode();  // 条件2：服务器没有新内容时进入时钟模式
             }
 
