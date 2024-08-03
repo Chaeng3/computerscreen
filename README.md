@@ -1,6 +1,6 @@
 ![20240803_131214](https://github.com/user-attachments/assets/8ed0e75a-d947-47c5-9d72-7d17b410ce33)
 ![20240803_131117](https://github.com/user-attachments/assets/59e0317e-22f7-48bf-8061-88339580a26b)
-此项目使用ESP32+OLED实现电脑副屏功能，实时显示CPU、RAM、GPU占用率，API由AIDA64提供。
+此项目使用ESP32+OLED实现电脑副屏功能，开机时实时显示CPU、RAM、GPU占用率（API由AIDA64提供）。关机时显示时钟信息。
 
 ---
 
@@ -21,3 +21,4 @@
 操作阶段：
 1.电脑设置AIDA64，参考文献：https://blog.csdn.net/weixin_42487906/article/details/119990801?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172266571116800182194010%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172266571116800182194010&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-119990801-null-null.142^v100^pc_search_result_base8&utm_term=aida64%20esp32&spm=1018.2226.3001.4187注意如图勾选5个输出项：![QQ_1722665863713](https://github.com/user-attachments/assets/c69debdd-3e30-4d57-aa72-8cedd70b21ef)
 2.连接硬件，ESP32-OLED：SCL-GPIO21，SDA-GPIO22，VCC-3.3V，GND-GND。
+3.写入代码。
