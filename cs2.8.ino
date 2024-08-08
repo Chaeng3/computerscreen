@@ -8,7 +8,7 @@
 // WiFi 连接信息
 const char *ssid = "XXX";//WIFI名称
 const char *password = "XXX";//WIFI密码
-const char *host = "192.168.1.2";
+const char *host = "XXX";//电脑IP地址
 
 // NTP 客户端设置
 WiFiUDP ntpUDP;
